@@ -36,4 +36,5 @@ I'm an application developer. I'm from Uttar Pradesh (उत्तर प्र�
 
 - 😄 Pronouns: He
 <!-- - ⚡ Fun fact: ... -->
+![vvkpd's github stats](https://github-readme-stats.vercel.app/api?username=vvkpd&show_icons=true&theme=flag-india&count_private=true)
 
