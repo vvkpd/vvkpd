@@ -7,7 +7,7 @@ I'm an application developer. I'm from Uttar Pradesh (उत्तर प्र�
 
 - 🔭 I’m currently working on .Net core, Java and Azure
 - 🌱 I’m currently learning .Net core
-- 👯 I’m looking to collaborate on open-source projects
+- :man_technologist: I’m looking to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about JavaScript,Java, C# and ...
 - 😄 Pronouns: He
