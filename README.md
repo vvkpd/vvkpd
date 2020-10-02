@@ -10,6 +10,7 @@ I'm an application developer. I'm from Uttar Pradesh (उत्तर प्र�
 - 👯 I’m looking to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about JavaScript,Java, C# and ...
+- 😄 Pronouns: He
 - 📫 How to reach me:
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- links to social media icons -->
@@ -34,7 +35,6 @@ I'm an application developer. I'm from Uttar Pradesh (उत्तर प्र�
 [![alt text][3.1]][3]
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-- 😄 Pronouns: He
 <!-- - ⚡ Fun fact: ... -->
 ![vvkpd's github stats](https://github-readme-stats.vercel.app/api?username=vvkpd&show_icons=true&theme=flag-india&count_private=true)
 
