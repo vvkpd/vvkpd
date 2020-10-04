@@ -38,4 +38,4 @@ I'm an application developer. I'm from Uttar Pradesh (उत्तर प्र�
 
 <!-- - ⚡ Fun fact: ... -->
 ![vvkpd's github stats](https://github-readme-stats.vercel.app/api?username=vvkpd&show_icons=true&theme=flag-india&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvkpd&layout=compact)](https://github.com/vvkpd)
