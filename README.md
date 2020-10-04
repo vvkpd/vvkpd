@@ -1,4 +1,5 @@
 ### Hi I'm Vivek Pandey 👋
+![](https://komarev.com/ghpvc/?username=vvkpd&color=brightgreen)
 
 <!--
 **vvkpd/vvkpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
